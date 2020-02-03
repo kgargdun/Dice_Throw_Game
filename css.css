@@ -1,0 +1,42 @@
+.body
+{
+  background-color:#391f8c;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.heading
+{
+  margin:4rem auto 0 auto;
+  padding: 3% 7%;
+  text-align:center;
+  color: #fff;
+
+}
+.players
+{
+    padding: 3% 7%;
+    font-weight:lighter;
+}
+footer
+{
+  position:fixed;
+left: 0;
+ bottom: 0;
+ width: 100%;
+  background-color:#39005a;
+  margin: 5rem 0 0;
+  color: #fff;
+  text-align:center;
+}
+.img1
+{
+  width:7rem;
+  height:7rem;
+}
+
+
+.img2
+{
+  width:7rem;
+  height:7rem;
+}
